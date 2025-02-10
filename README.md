@@ -5,7 +5,9 @@ This app uses a local deployment of Ollama and the model Aya to translate text i
 I did many (many) prompts and prompt refinements, but did not manually enter a single character of Python code.
 
 Example of a prompt used to refine the code:
+
 <<<<<<<<<<>>>>>>>>>
+
 This python app works great but I need some changes to the overlayed text in the new images.
 
 Please do all of the following:
@@ -15,7 +17,7 @@ Please do all of the following:
 
 Please regenerate the full python script.
 
-```python
+``` python
 (full code goes here)
 ```
 <<<<<<<<<<>>>>>>>>>
