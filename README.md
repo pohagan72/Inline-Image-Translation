@@ -1,5 +1,7 @@
 <H2>100% of this Python code was created by GenAI</H2>
 
+Update - 12-Feb-2025. Refactored to Flask from Streamlit. 100% of changes were done using GenAI, no code was hand written. 
+
 This app uses a local deployment of EasyOCR, Ollama and the LLM Aya 23 from Cohere to translate text in images. You provide an image and it translates the text and then generates a new version of the image with the translation overlayed.
 
 I did many (many) prompts and prompt refinements, but did not manually enter a single character of Python code.
